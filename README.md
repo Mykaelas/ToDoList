@@ -17,7 +17,7 @@ No License as of this point in time.
 - [Links](#links)
 
 ## Description:
-![ReadMes Made Easy](https://user-images.githubusercontent.com/101831653/215194257-42fb1ba6-4f37-4441-892a-30db148229d0.png)
+
 
 This is a basic task website that allows users to make a list of tasks that need to be done. 
 

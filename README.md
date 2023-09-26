@@ -1,5 +1,6 @@
 
 # To Do List
+![Screenshot 2023-09-26 135701](https://github.com/Mykaelas/ToDoList/assets/101831653/c1be9909-eb60-4d33-b1c1-8694cc060498)
 
 ## License:
 
@@ -9,7 +10,7 @@ No License as of this point in time.
 
 - [Description](#description)
 - [Installation](#installation)
-- [Languages](#langugaes)
+- [Languages](#languages)
 - [Usage](#usage)
 - [License](#license)
 - [Contributions](#contributions)
@@ -39,12 +40,13 @@ This gives the user a visual representation of tasks they need to complete.
 None
 
 ## Contributions:
-None
+Nonehttps://coding-boot-camp.github.io/continuation-courses/
 
 ## Questions:
 
 Want to see more of my work? Follow me here at https://github.com/Mykaelas to see what I am working on next, or send me a LinkedIn request on https://www.linkedin.com/in/mykaela-saenz-526211141/.
 
 ## Links:
-*add website link* 
+Check out the site here: https://mykaelas.github.io/ToDoList/
+
 
